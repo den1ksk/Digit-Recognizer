@@ -47,10 +47,7 @@ The model achieved a Kaggle score of **0.99553**, placing it in the **top 5%** o
 ### Files
 
 - `Digit Recognizer.ipynb`: Jupyter Notebook containing the complete code and analysis.
-- `train.csv`: Training dataset.
-- `test.csv`: Testing dataset.
 - `submission.csv`: File containing the predictions for the test dataset.
-- `png`: Visualizations of the model's accuracy and loss during training.
 
 ### Libraries Used
 
